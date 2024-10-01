@@ -1,5 +1,5 @@
 # Video alternative: https://vimeo.com/954334009/67af9910fc#t=1054
-
+### Run code in the terminal with python [file name] e.g.(python 042_challenge_2_exercise.py)
 # So far you've spent a lot of time writing new programs.
 
 # This is great for learning the fundamentals of code, but

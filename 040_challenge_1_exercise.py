@@ -1,5 +1,7 @@
 # Video alternative: https://vimeo.com/954334103/0aed500d39#t=1295
 
+# Run code in the terminal with python [file name] e.g.(python 040_challenge_1_exercise.py)
+
 from lib.helpers import check_that_these_are_equal
 
 # Now it's your turn.
@@ -108,5 +110,3 @@ check_that_these_are_equal(
   ]),
   "These words are quite long: "
 )
-
-# Once you're done, move on to 041_challenge_2_example.py
